@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a5a53db-2201-4f4a-bb57-f3e51fa86a18" name="Default" comment="" />
+    <list default="true" id="3a5a53db-2201-4f4a-bb57-f3e51fa86a18" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit2-Lesson1-Statistics-Exercises/GB-Alcohol-Tobacco-Sales.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="projects.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -57,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="database.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lesson3-Exercises/database.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+            <state relative-caret-position="185">
+              <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
                 <marker date="1465149660000" expanded="true" signature="173:200" placeholder="drop table i... " />
@@ -78,6 +81,18 @@
                 <marker date="1465149660000" expanded="true" signature="1494:1587" placeholder="select name,... cities" />
                 <marker date="1465149660000" expanded="true" signature="1494:1600" placeholder="select name,... cities" />
                 <marker date="1465149660000" expanded="true" signature="1494:1602" placeholder="select name,... cities" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GB-Alcohol-Tobacco-Sales.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Unit2-Lesson1-Statistics-Exercises/GB-Alcohol-Tobacco-Sales.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="530">
+              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,6 +120,7 @@
         <option value="$PROJECT_DIR$/Lesson3-Exercises/SQLite.py" />
         <option value="$PROJECT_DIR$/Lesson3-Exercises/SQL-Join-Filter.py" />
         <option value="$PROJECT_DIR$/Lesson3-Exercises/database.py" />
+        <option value="$PROJECT_DIR$/Unit2-Lesson1-Statistics-Exercises/GB-Alcohol-Tobacco-Sales.py" />
       </list>
     </option>
   </component>
@@ -200,7 +216,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson3-Exercises" />
+              <option name="myItemId" value="Unit2-Lesson1-Statistics-Exercises" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -544,8 +560,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson3-Exercises/database.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        <state relative-caret-position="185">
+          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
             <marker date="1465149660000" expanded="true" signature="173:200" placeholder="drop table i... " />
@@ -562,6 +578,16 @@
             <marker date="1465149660000" expanded="true" signature="1494:1587" placeholder="select name,... cities" />
             <marker date="1465149660000" expanded="true" signature="1494:1600" placeholder="select name,... cities" />
             <marker date="1465149660000" expanded="true" signature="1494:1602" placeholder="select name,... cities" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit2-Lesson1-Statistics-Exercises/GB-Alcohol-Tobacco-Sales.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
